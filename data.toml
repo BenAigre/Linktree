@@ -29,9 +29,15 @@ title = "Substack"
 icon = "https://cdn.simpleicons.org/substack/ffffff"
 url = "https://substack.com/@benfsauer"
 
+[[sections.items]]
+title = "Email"
+icon = "https://cdn.simpleicons.org/mail/ffffff"
+url = "mailto:bensauer@protonmail.com"
+
+
 [[sections]]
 title = "Education"
-description = "Special interest: bioprocess development and modelling, data-integration, LCSA"
+description = "Special interest: process development and modelling, data-integration, LCSA"
 direction = "column"
 item_style = "outline"
 
